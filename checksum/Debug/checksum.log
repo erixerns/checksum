@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\erixe\source\repos\checksum\checksum\source.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\erixe\source\repos\checksum\checksum\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\erixe\source\repos\checksum\checksum\source.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\erixe\source\repos\checksum\checksum\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\erixe\source\repos\checksum\checksum\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\erixe\source\repos\checksum\checksum\source.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  checksum.vcxproj -> C:\Users\ErixE\source\repos\checksum\Debug\checksum.exe
